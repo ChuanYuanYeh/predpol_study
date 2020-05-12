@@ -21,6 +21,15 @@ Summary and 1~2 viz.
 Summary and 1~2 viz.
 ![Annual Crimes in LA](/assets/ezgif.com-gif-maker.gif)
 
+<iframe src="/assets/crime_types.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
 ## Arrests
 Summary and 1~2 viz.
 
