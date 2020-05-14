@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Predictive Policing Analysis
+title: A Dive Into How Predictive Policing Works and its Effectiveness
 description: A Dive Into How Predictive Policing Works and its Effectiveness
 ---
 ## Overview
