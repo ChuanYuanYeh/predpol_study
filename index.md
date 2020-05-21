@@ -22,6 +22,6 @@ Summary and 1~2 viz.
 ![Annual Crimes in LA](/assets/ezgif.com-gif-maker.gif)
 ![Annual Arrests in LA](/assets/arrests_animated.gif)
 
-{% include crime_arrest_types.html %}
+{% include crime_arrest.html %}
 
 ## Conclusion
