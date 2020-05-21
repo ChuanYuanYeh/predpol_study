@@ -17,13 +17,11 @@ We will proceed by looking at how trends in traffic/pedestrian stops, crimes, an
 ## Traffic & Pedestrian Stops
 Summary and 1~2 viz.
 
-## Crimes
+## Crimes & Arrests
 Summary and 1~2 viz.
 ![Annual Crimes in LA](/assets/ezgif.com-gif-maker.gif)
+![Annual Arrests in LA](/assets/arrests_animated.gif)
 
 {% include crime_types.html %}
-
-## Arrests
-Summary and 1~2 viz.
 
 ## Conclusion
