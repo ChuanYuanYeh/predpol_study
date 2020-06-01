@@ -24,8 +24,10 @@ The interactive maps below show the statistics from testing how the proportions 
 
 {% include crime_arrest_final.html %}
 
-## Traffic & Pedestrian Stops
+## Was there a reduction in pedestrian and vehicle stops?
 {% include stops.html %}
 
+## Did PredPol target minority groups?
+![Stop Trends by Race](/assets/stops_race.png)
 
-## Conclusion
+## Takeaways
