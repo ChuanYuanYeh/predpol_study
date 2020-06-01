@@ -31,6 +31,7 @@ Since police stops is the most common form of interaction with a police, we also
 ## Did PredPol target minority groups?
 The stops data also allowed us to see if there were any racial discrepancies in the stops made during PredPol's deployment compared to before it was deployed. 
 ![Stop Trends by Race](/assets/stops_race.png)
+
 The plot above shows the annual number of stops made per race from 2010 to 2019. We see that all races went down during the period when PredPol was first rolled out to just three divisions. However, most of them started to increase once it was extended to all divisions in 2015. In our analysis, we took into account how different races have different population sizes by looking at the rates instead with the use of census data from 2010. Our results actually indicated that Black drivers and pedestrians had a higher rate of getting stopped in 2013 to 2014 in divisions that had PredPol deployed. 
 
 ## Takeaways
