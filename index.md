@@ -22,7 +22,7 @@ On the other hand, arrest numbers in all divisions except for Hollywood and Cent
 
 The interactive maps below show the statistics from testing how the proportions of each crime type changed in each division after PredPol was deployed. The first map displays the proportion of crimes committed while the second one shows the proportion of arrests being made for the selected crime type. For the tests, our null hypothesis was that the proportions are the same regardless of PredPol's deployment. At a significance level of 0.05, we reject the null hypothesis if the p-value falls under 0.05 and say that the proportion was either higher or lower depending on the sign of the statistic. By going through the different crime types, we can see that PredPol did not affect all crimes equally. Specfically, there was an overall increase in the proportions of property crimes being committed and arrested. On the other hand, financial crimes and other miscellaneous crimes saw decreases in both fields.
 
-{% include crime_arrest.html %}
+{% include crime_arrest_final.html %}
 
 ## Traffic & Pedestrian Stops
 Summary and 1~2 viz.
