@@ -25,7 +25,7 @@ The interactive maps below show the statistics from testing how the proportions 
 {% include crime_arrest_final.html %}
 
 ## Traffic & Pedestrian Stops
-Summary and 1~2 viz.
+{% include stops.html %}
 
 
 ## Conclusion
